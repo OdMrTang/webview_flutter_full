@@ -1,0 +1,156 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+MERGED from [:integration_test] /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/integration_test/intermediates/library_manifest/debug/AndroidManifest.xml:7:1-12:12
+MERGED from [:webview_flutter] /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.test:rules:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/9f89db25ffcb1a1f5d88af9f13151e36/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/19d26b3771270ec97d6681ff0d89839d/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/d5881b40a74667055837a1e96f4df2e7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/ff8b1d48f8e4867be9d5d76be31d1b4d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:monitor:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/1e9db5085c9980db2d4b26a4ee94ead5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/d94980231484a25828fd1ea7c71e89f8/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c4c4da080d2a3ab49b36313ca8a1be86/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/308cfe084a9a1d698d11b71ff4cd19cf/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/59eb9204453ff3f67cf1687b2547a2de/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8582082c7dc487691c3f75ac5be71e36/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/68e79bad50cb4da273e2bcbeadf29d6a/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/ddf6d64f93dbe4cfdc60badeef2c5e8c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/12ecac7269962c09b86fc5a513cc5f87/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7bd2d0e9b65c1e0365296d59c6856463/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5838094f6b213c9f6174d7d770df015e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6cf777ceb7d6317517873cfa96fa47eb/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/884393b5540cc4f2fbbc57957962340e/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/4a3d73d4bbb21a9619cfa22255bacc79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/9dc1bc59ed3508eb6fde6b7c8545e6be/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+	package
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:2:3-53
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:1-43:12
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:9:3-36:17
+MERGED from [androidx.core:core:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/68e79bad50cb4da273e2bcbeadf29d6a/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/68e79bad50cb4da273e2bcbeadf29d6a/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/884393b5540cc4f2fbbc57957962340e/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/884393b5540cc4f2fbbc57957962340e/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/68e79bad50cb4da273e2bcbeadf29d6a/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:11:5-44
+	android:icon
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:10:5-39
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:12:5-53
+meta-data#flutterEmbedding
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:13:5-15:29
+	android:value
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:15:9-26
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:14:9-40
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:16:5-35:16
+	android:screenOrientation
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:22:9-45
+	android:launchMode
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:19:7-37
+	android:hardwareAccelerated
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:18:7-41
+	android:windowSoftInputMode
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:23:7-49
+	android:configChanges
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:17:7-138
+	android:theme
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:21:7-41
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:20:7-66
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:28:7-30:31
+	android:value
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:30:9-29
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:29:9-74
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:31:7-34:23
+action#android.intent.action.MAIN
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:32:9-60
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:32:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:33:9-68
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:33:19-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:42:3-64
+	android:name
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml:42:20-62
+uses-sdk
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:integration_test] /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/integration_test/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-44
+MERGED from [:integration_test] /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/integration_test/intermediates/library_manifest/debug/AndroidManifest.xml:10:5-44
+MERGED from [:webview_flutter] /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/webview_flutter/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.test:rules:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/9f89db25ffcb1a1f5d88af9f13151e36/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/rules-1.2.0.aar/9f89db25ffcb1a1f5d88af9f13151e36/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/19d26b3771270ec97d6681ff0d89839d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/espresso-core-3.2.0.aar/19d26b3771270ec97d6681ff0d89839d/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/d5881b40a74667055837a1e96f4df2e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/runner-1.2.0.aar/d5881b40a74667055837a1e96f4df2e7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/ff8b1d48f8e4867be9d5d76be31d1b4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/webkit-1.0.0.aar/ff8b1d48f8e4867be9d5d76be31d1b4d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:monitor:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/1e9db5085c9980db2d4b26a4ee94ead5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/monitor-1.2.0.aar/1e9db5085c9980db2d4b26a4ee94ead5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/d94980231484a25828fd1ea7c71e89f8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/fragment-1.1.0.aar/d94980231484a25828fd1ea7c71e89f8/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c4c4da080d2a3ab49b36313ca8a1be86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/viewpager-1.0.0.aar/c4c4da080d2a3ab49b36313ca8a1be86/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/308cfe084a9a1d698d11b71ff4cd19cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/loader-1.0.0.aar/308cfe084a9a1d698d11b71ff4cd19cf/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/59eb9204453ff3f67cf1687b2547a2de/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/activity-1.0.0.aar/59eb9204453ff3f67cf1687b2547a2de/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8582082c7dc487691c3f75ac5be71e36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/customview-1.0.0.aar/8582082c7dc487691c3f75ac5be71e36/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/68e79bad50cb4da273e2bcbeadf29d6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-1.1.0.aar/68e79bad50cb4da273e2bcbeadf29d6a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/ddf6d64f93dbe4cfdc60badeef2c5e8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-runtime-2.2.0.aar/ddf6d64f93dbe4cfdc60badeef2c5e8c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/12ecac7269962c09b86fc5a513cc5f87/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/savedstate-1.0.0.aar/12ecac7269962c09b86fc5a513cc5f87/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7bd2d0e9b65c1e0365296d59c6856463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-2.0.0.aar/7bd2d0e9b65c1e0365296d59c6856463/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5838094f6b213c9f6174d7d770df015e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-livedata-core-2.0.0.aar/5838094f6b213c9f6174d7d770df015e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6cf777ceb7d6317517873cfa96fa47eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/core-runtime-2.0.0.aar/6cf777ceb7d6317517873cfa96fa47eb/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/884393b5540cc4f2fbbc57957962340e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/versionedparcelable-1.1.0.aar/884393b5540cc4f2fbbc57957962340e/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/4a3d73d4bbb21a9619cfa22255bacc79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/lifecycle-viewmodel-2.1.0.aar/4a3d73d4bbb21a9619cfa22255bacc79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/9dc1bc59ed3508eb6fde6b7c8545e6be/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/tang/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.2.0.aar/9dc1bc59ed3508eb6fde6b7c8545e6be/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/android/app/src/main/AndroidManifest.xml

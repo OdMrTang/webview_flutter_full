@@ -1,0 +1,4 @@
+#Sun Sep 26 16:10:57 CST 2021
+base.0=/Users/tang/Desktop/flutter/work/plugins/webview_flutter/example/build/app/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
